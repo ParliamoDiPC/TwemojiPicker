@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TwemojiPicker", "TwemojiPicker\TwemojiPicker.vbproj", "{F57D7F9F-A99B-4C3F-9F1A-C6AD1E0E53CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57D7F9F-A99B-4C3F-9F1A-C6AD1E0E53CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57D7F9F-A99B-4C3F-9F1A-C6AD1E0E53CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57D7F9F-A99B-4C3F-9F1A-C6AD1E0E53CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57D7F9F-A99B-4C3F-9F1A-C6AD1E0E53CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA3E247-0671-4C68-8B9C-C9BE8B61B820}
+	EndGlobalSection
+EndGlobal
